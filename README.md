@@ -27,4 +27,5 @@
 - 6-01
   - 6-03 如何使用 java 的數組
   - 6-05 使用循环操作 Java 中的数组
+- 基礎知識 學習結束，請轉至 "Learn junior Java class 2"
 
