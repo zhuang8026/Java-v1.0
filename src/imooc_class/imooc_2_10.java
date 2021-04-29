@@ -25,8 +25,8 @@ public class imooc_2_10 {
 
         String str = "180.20";
         // 将 字符串 转换为 基本类型
-        double fff = Double.parseDouble(str); // number 200.2
-        Double ffff = Double.parseDouble(str); // object { 200.2 }
+        double fff = Double.parseDouble(str); // number 200.2 轉 基本
+        Double ffff = Double.parseDouble(str); // object { 200.2 } 轉 對象
 
         System.out.println("str 转换为double型后与整数20的求和结果为： "+(fff + 20));
         System.out.println("str 转换为double型后与整数20的求和结果为： "+(ffff + 20));

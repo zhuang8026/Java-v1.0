@@ -31,8 +31,12 @@ public class imooc_6_5 {
         for (String num : nums){
             Float sss = Float.parseFloat(num);
             int dd = sss.intValue();
-//            int sss = Integer.parseInt(num);
-            System.out.println(dd);
+            // String dd = sss.toString();
+            // int sss = Integer.parseInt(num);
+            System.out.println("------->");
+            System.out.println(sss); // Float
+            System.out.println(dd);  // int
+
         }
     }
 }
